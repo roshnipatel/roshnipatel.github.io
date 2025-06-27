@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: As of fall 2025, I am an assistant professor at the University of Oregon in the <a href='https://scds.uoregon.edu/ds'>Department of Data Science</a> and a member of the <a href='https://ie2.uoregon.edu/'>Institute for Ecology and Evolution (IE2)</a>. You can contact me at roshnip@uoregon.edu.
+subtitle: As of fall 2025, I am an assistant professor at the University of Oregon in the <a href='https://scds.uoregon.edu/ds'>Department of Data Science</a> and a member of the <a href='https://ie2.uoregon.edu/'>Institute for Ecology and Evolution (IE2)</a>.
 
 profile:
   align: right
@@ -30,4 +30,4 @@ Given the ethical considerations that arise when working with human genetic data
 
 We also work on questions that fall under the scope of science and society, metascience, and ELSI (ethical, legal, and social implications). We are particularly interested in interrogating the use of race, ancestry, and other population descriptors in human genetics. Our ultimate goal is to develop resources and strategies for enabling more socially responsible science.
 
-If you are interested in joining us, feel free to email me at roshnip@uoregon.edu. We welcome interested undergraduate and graduate students, as well as prospective postbac or postdoc researchers.
+<strong>Joining: </strong>If you are interested in joining us, please reach out to me at <a href='mailto:roshnip@uoregon.edu'>roshnip@uoregon.edu</a>. I am happy to hear from interested undergraduate and graduate students, as well as prospective postbac or postdoc researchers.
