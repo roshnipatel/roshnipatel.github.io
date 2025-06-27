@@ -2,33 +2,33 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: As of fall 2025, I am an assistant professor at the University of Oregon in the <a href='https://scds.uoregon.edu/ds'>Department of Data Science</a> and a member of the <a href='https://ie2.uoregon.edu/'>Institute for Ecology and Evolution (IE2)</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>roshnip@uoregon.edu</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+We primarily work on understanding the genetic architecture and evolutionary history of complex traits. Bridging statistical genetics and population genetics, we are especially interested in understanding how the variation underlying complex traits is distributed across populations, and how combining information across populations enables us to better understand trait architecture. Other interests include gene expression and regulation; genetic interactions (i.e. GxG and GxE); admixture; and polygenic score portability. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+We are first and foremost motivated by understanding biology, but we also seek out opportunities to develop bespoke statistical or computational solutions to the problems we work on. Our work generally combines theory and modeling with methods development and data analysis.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Given the ethical considerations that arise when working with human genetic data — and especially data from groups that have been historically excluded from or exploited in biomedical research — we are committed to conducting our research in a manner that is explicit about equity. This includes both engaging with the history of our field and critically evaluating our own work in order to anticipate potential harms.
+
+We also work on questions that fall under the scope of science and society, metascience, and ELSI (ethical, legal, and social implications of human genetics). We are interested in understanding the rationale behind and impact of scientific practices in statistical and population genetics, especially relating to the use of race, ancestry, and other population descriptors. Our ultimate goal is to develop resources and strategies for enabling more socially responsible science.
