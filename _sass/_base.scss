@@ -715,7 +715,7 @@ footer.sticky-bottom {
 
   h2.bibliography {
     color: var(--global-divider-color);
-    border-top: 1px solid var(--global-divider-color);
+    border-top: 1px solid var(--global-footer-text-color);
     padding-top: 1rem;
     margin-top: 2rem;
     text-align: right;
@@ -955,7 +955,7 @@ progress {
   background-color: transparent;
 
   /* Progress bar value for IE10  */
-  color: var(--global-theme-color);
+  color: var(--global-divider-color);
 }
 
 progress::-webkit-progress-bar {
@@ -963,11 +963,11 @@ progress::-webkit-progress-bar {
 }
 
 progress::-webkit-progress-value {
-  background-color: var(--global-theme-color);
+  background-color: var(--global-divider-color);
 }
 
 progress::-moz-progress-bar {
-  background-color: var(--global-theme-color);
+  background-color: var(--global-divider-color);
 }
 
 .progress-container {
@@ -981,7 +981,7 @@ progress::-moz-progress-bar {
 }
 
 .progress-bar {
-  background-color: var(--global-theme-color);
+  background-color: var(--global-divider-color);
   width: 0%;
   display: block;
   height: inherit;
