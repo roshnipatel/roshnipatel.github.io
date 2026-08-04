@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: As of fall 2025, I am an assistant professor at the University of Oregon in the <a href='https://scds.uoregon.edu/ds'>Department of Data Science</a> and a member of the <a href='https://ie2.uoregon.edu/'>Institute for Ecology and Evolution</a>.
+subtitle: As of fall 2025, we are located at the University of Oregon in the <a href='https://scds.uoregon.edu/ds'>Department of Data Science</a>. We also belong to the <a href='https://ie2.uoregon.edu/'>Institute for Ecology and Evolution</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: eugene.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
+  more_info: We are located in the beautiful southern Willamette Valley on Kalapuya land in Eugene, Oregon.
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
