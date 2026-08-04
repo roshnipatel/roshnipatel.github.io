@@ -1,0 +1,1 @@
+Clara is a post-baccalaureate research associate and [PREP Bio scholar](https://cas.uoregon.edu/UO-PREP-Bio). Her interests are in statistical models of biological systems, particularly in applications to ecology and evolution.
